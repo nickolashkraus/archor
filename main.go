@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 package main
 
-import "github.com/NickolasHKraus/archor/cmd"
+import "github.com/nickolashkraus/archor/cmd"
 
 func main() {
 	cmd.Execute()

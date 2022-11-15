@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Test RSS 2.0 - 0
+-->
+<rss version="2.0">
+  <channel>
+    <title>GoUpstate.com News Headlines</title>
+    <link>http://www.goupstate.com</link>
+    <description>The latest news from GoUpstate.com, a Spartanburg Herald-Journal Web site.</description>
+  </channel>
+</rss>

@@ -1,6 +1,10 @@
 # See: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
 name: Go
 
+# TODO
+# * Add `go fmt`
+# * Add `go vet`
+
 on:
   push:
     branches: [ "master" ]
